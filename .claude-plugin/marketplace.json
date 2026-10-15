@@ -1,0 +1,18 @@
+{
+  "name": "prisoteket",
+  "owner": {
+    "name": "Prisoteket",
+    "email": "kontakt@prisoteket.se"
+  },
+  "metadata": {
+    "description": "Prisoteket: elavtal och begagnat i Sverige, direkt i Claude."
+  },
+  "plugins": [
+    {
+      "name": "prisoteket",
+      "source": "./plugins/prisoteket",
+      "description": "Jämför elavtal för hushåll per elområde och sök bland begagnat till salu i Sverige, direkt i samtalet och utan att du behöver be om det.",
+      "version": "0.2.0"
+    }
+  ]
+}

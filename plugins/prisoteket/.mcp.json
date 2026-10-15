@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "prisoteket": {
+      "type": "http",
+      "url": "https://mcp.prisoteket.se/mcp"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "prisoteket",
+  "displayName": "Prisoteket",
+  "version": "0.2.0",
+  "description": "Jämför elavtal för hushåll per elområde och sök bland begagnat till salu i Sverige, direkt i samtalet och utan att du behöver be om det.",
+  "author": { "name": "Prisoteket", "url": "https://prisoteket.se" }
+}
